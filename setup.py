@@ -4,7 +4,7 @@ req = open('requirements.txt').read().splitlines()
 
 setup(
     name='Quant',
-    version='',
+    version='0',
     packages=['quant'],
     url='',
     license='',
